@@ -1,0 +1,4 @@
+locations:
+  - location_name: from_weather
+    code_source:
+      module_name: from_weather.definitions
